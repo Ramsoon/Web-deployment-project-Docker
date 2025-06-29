@@ -1,15 +1,17 @@
 ## Web-deployment-project-Docker
-#This is intended to deploy a web application with Docker on AWS.
+#This is intended to deploy a web application using Docker on AWS.
 Deploying a fully responsive frontend website for an educational insitute using Docker
-🌐 Project Overview This capstone project is a fully responsive, front-end website developed for an educational institution. It is based on a professionally designed template sourced from Envato Elements, which was customized and extended using modern front-end technologies including HTML, CSS, SASS, and JavaScript.
+🌐 Project Overview 
+This capstone project is a fully responsive, front-end website developed for an educational institution. It is based on a professionally designed template sourced from Envato Elements, which was customized and extended using modern front-end technologies including HTML, CSS, SASS, and JavaScript.
 
 🐳 Capstone Project: Containerizing a Static Website with Docker
 
-🧭 Project Overview This capstone project involves containerizing a static educational website (based on an HTML/CSS/SASS/JS template from Envato Elements) using Docker. The primary goal is to gain hands-on experience with building, running, and managing containerized front-end applications.
+🧭 Project Overview 
+This capstone project involves containerizing a static educational website (based on an HTML/CSS/SASS/JS template from Envato Elements) using Docker. The primary goal is to gain hands-on experience with building, running, and managing containerized front-end applications.
 
-🎓 What You'll Learn
+🎓 What I did
 
-✅ 1. Docker Fundamentals Writing a Dockerfile to containerize a static web app using a lightweight web server (e.g., Nginx or httpd). Understanding base images, COPY, WORKDIR, and EXPOSE directives.
+✅ 1. Docker Fundamentals Writing a Dockerfile to containerize a static web app using a lightweight web server (Nginx). Leveraging base images, COPY, WORKDIR, and EXPOSE directives.
 
 ✅ 2. Docker Image Creation Building custom images for front-end deployment. Optimizing image size and structure for production.
 
